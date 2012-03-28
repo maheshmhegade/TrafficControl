@@ -11,7 +11,7 @@ followed by executing
 
 ./a.out
 
-Need to select 8 segments in first video frame within 15 seconds(can be varied),selection of regions should be such that vehicles will be passing through selected segments such that vehicle counting starts.
+Need to select 8 segments in first video frame within 15 seconds(can be varied),selection of regions should be such that vehicles will be passing through selected segments so that vehicle counting starts.
 
 screenshots can be found here:
 http://goo.gl/wEKr5
