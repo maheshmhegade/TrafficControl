@@ -1,0 +1,19 @@
+package needed
+*opencv
+
+How to Use:
+
+compile
+
+gcc TrafficControl.cpp -I/usr/include/opencv/ -lcv -lcvaux -lhighgui -lm -lcxcore
+
+followed by executing
+
+./a.out
+
+Need to select 8 segments in first video frame within 15 seconds(can be varied),selection of regions should be such that vehicles will be passing through selected segments such that vehicle counting starts.
+
+screenshots can be found here:
+http://goo.gl/wEKr5
+
+optinally use CMakeLists.txt file
